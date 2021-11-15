@@ -538,6 +538,8 @@ nav a:hover::before {
 }
 
 
+
+
 .fourth-content {
 	padding: 5px;
 }
@@ -842,4 +844,18 @@ nav a:hover::before {
 	nav a {
 	  	padding: 15px 20px;
 	}
+}
+
+.skills-icons 
+{
+	width: 200px;
+	display: flex;
+	padding: 20px;
+	justify-content: space-between;
+	
+}
+
+.skills-icons img 
+{
+	padding: 15px;
 }
